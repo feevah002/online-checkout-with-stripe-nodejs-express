@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.7.5",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^7.1.2",
+    "stripe": "^11.1.0"
+  },
+  "name": "checkout-payment-system-with-stripe",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "feevah002",
+  "license": "ISC",
+  "keywords": [
+    "stripe",
+    "nodejs",
+    "node",
+    "express",
+    "ecommerse",
+    "online-payment",
+    "shipping-ste"
+  ],
+  "description": ""
+}
